@@ -1,2 +1,4 @@
 # Roshambo_ratna
-Game developed through c
+Game  c language
+<br>
+Ratnaprava
